@@ -9,6 +9,7 @@ You will need:
 - 1x Breadboard 
 - 1 x LED 
 - 2 x Jumpers
+- Arduino Library from https://github.com/PaulStoffregen/CapacitiveSensor
 
 First plug in the resistor in pin 4 and pin 8 of the Arduino, then connect the touch plate with pin 8 of the Arduino.
 
