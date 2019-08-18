@@ -45,4 +45,3 @@ N/A
 1. Expanded upon to make multiple touch sensors per Arduino, allowing for many inputs, similar to the videos within the inspiration section above. This could be used for either different objects (one input per object) or different touch points on a single object.
 2. Experiments with different types of tactile surfaces covered in conductive materials.
 3. Try to create a way to easily change the objects, perhaps using NFC tags to signal which object is being touched.
-4. 
